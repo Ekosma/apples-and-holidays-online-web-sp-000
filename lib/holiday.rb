@@ -104,8 +104,6 @@ def all_winter_holiday_supplies(holiday_hash)
        :memorial_day => ["BBQ"]
      }
    }
-   holiday_supplies[:winter].do each |supply|
- end
 end
 
 def all_supplies_in_holidays(holiday_hash)
