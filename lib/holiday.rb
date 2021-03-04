@@ -131,7 +131,6 @@ def all_supplies_in_holidays(holiday_hash)
        :memorial_day => ["BBQ"]
      }
    }
-  holiday_supplies[:spring][:memorial_day] << "Grill"
 end
 
 def all_holidays_with_bbq(holiday_hash)
