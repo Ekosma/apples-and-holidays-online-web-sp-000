@@ -152,8 +152,6 @@ def all_holidays_with_bbq(holiday_hash)
        :memorial_day => ["BBQ"]
      }
    }
-  holiday_supplies[:summer]
-  holiday_supplies[:spring]
 end
 
 
